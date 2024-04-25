@@ -117,7 +117,7 @@ Users can simulate various scenarios, from revisiting old event models to testin
 #
 ### Examples Usage
 
-<details><summary>Drive-In Music Event</summary>
+<details><summary>Technology Conference</summary>
 <br>
 
 ![Tech Conference](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/140587c2-9de5-47c7-8fd5-674d861b470a)
