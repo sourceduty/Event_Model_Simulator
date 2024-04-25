@@ -1,8 +1,8 @@
-![Rainwater Parade](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/c1a0621d-116f-46af-a493-103be52eab1d) is a comprehensive tool designed to aid in the planning, creation, and simulation of diverse events. This custom GPT enables users to explore a variety of event models and organizational strategies, offering detailed simulations and forecasts. Whether users are conceptualizing a new event, refining an existing model, or expanding their event strategy, the simulator provides valuable insights and analysis to guide decision-making.
+![Rainwater Parade](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/c1a0621d-116f-46af-a493-103be52eab1d) 
+
+[Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator) is a comprehensive tool designed to aid in the planning, creation, and simulation of diverse events. This custom GPT enables users to explore a variety of event models and organizational strategies, offering detailed simulations and forecasts. Whether users are conceptualizing a new event, refining an existing model, or expanding their event strategy, the simulator provides valuable insights and analysis to guide decision-making.
 
 Users can simulate various scenarios, from revisiting old event models to testing out innovative approaches. By engaging with the simulator, individuals gain a deeper understanding of potential outcomes and the implications of different event strategies. However, it's important to note that while simulations can offer valuable insights, they are based on theoretical models and assumptions. Thus, the simulator encourages users to exercise critical thinking and advises them to consider real-world unpredictability and seek professional advice when making significant business decisions.
-
-[Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator) 
 
 #
 ### Examples Usage
