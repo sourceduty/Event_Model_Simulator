@@ -5,7 +5,7 @@
 Users can simulate various scenarios, from revisiting old event models to testing out innovative approaches. By engaging with the simulator, individuals gain a deeper understanding of potential outcomes and the implications of different event strategies. However, it's important to note that while simulations can offer valuable insights, they are based on theoretical models and assumptions. Thus, the simulator encourages users to exercise critical thinking and advises them to consider real-world unpredictability and seek professional advice when making significant event decisions.
 
 #
-### 100 Popular Social Events
+### Social Event Examples
 
 <details><summary>100 Popular Social Events</summary>
 <br>
