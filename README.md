@@ -361,5 +361,10 @@ By keeping these elements in mind, your racetrack driving anniversary event can 
 <br>
 </details>
 
+#
+### Related Links
+
+[Activity Balancer](https://github.com/sourceduty/Activity_Balancer)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
