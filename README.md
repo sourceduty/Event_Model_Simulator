@@ -120,6 +120,24 @@ Users can simulate various scenarios, from revisiting old event models to testin
 <details><summary>Drive-In Music Event</summary>
 <br>
 
+![Tech Conference](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/140587c2-9de5-47c7-8fd5-674d861b470a)
+
+Event Model: Technology Conference
+----------------------------------
+- Type of Event: Conference
+- Audience: Technology professionals, industry experts, and enthusiasts; expected attendance of 500-1000
+- Location: Major city convention center
+- Format: Hybrid (both in-person and virtual attendance options)
+- Objectives: To showcase emerging technologies, facilitate networking, and promote industry collaborations
+- Resources: Budget of $200,000; access to high-tech audiovisual equipment; team of 10 organizers
+- Timeframe: 3 days in the upcoming fall
+
+<br>
+</details>
+
+<details><summary>Drive-In Music Event</summary>
+<br>
+
 ![Drive-In](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/4b8d0a5e-fb2b-4356-aef9-ef1ec3f615c5)
 
 ### Drive-In Music Event Plan
@@ -279,7 +297,6 @@ Rainwater Parade Simulation and Analysis
 
 Critical Analysis:
 This simulation relies on assumptions about weather tolerance and participant willingness to engage in an outdoor event under less-than-ideal conditions. Continuous evaluation of weather and crowd dynamics is essential up to and during the event. Preparation for various contingencies and open communication with all stakeholders about potential changes or cancellations due to safety concerns is crucial. Consulting with event planning professionals and local authorities is recommended to ensure feasibility and safety.
-
 
 <br>
 </details>
