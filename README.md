@@ -10,6 +10,8 @@ Users can simulate various scenarios, from revisiting old event models to testin
 <details><summary>Drive-In Music Event</summary>
 <br>
 
+![Drive-In](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/4b8d0a5e-fb2b-4356-aef9-ef1ec3f615c5)
+
 ### Drive-In Music Event Plan
 
 1. Venue Selection:
