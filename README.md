@@ -1,4 +1,4 @@
-![Bungee Jump Wedding](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/7e09eb09-a959-4910-a553-8eec6d362d63)
+![Events](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/78e9c87f-f3cc-4170-b9c1-b8c8663b5d90)
 
 [Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator) is a comprehensive tool designed to aid in the planning, creation, and simulation of diverse events. This custom GPT enables users to explore a variety of event models and organizational strategies, offering detailed simulations and forecasts. Whether users are conceptualizing a new event, refining an existing model, or expanding their event strategy, the simulator provides valuable insights and analysis to guide decision-making.
 
