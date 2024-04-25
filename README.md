@@ -122,8 +122,8 @@ Users can simulate various scenarios, from revisiting old event models to testin
 
 ![Tech Conference](https://github.com/sourceduty/Event_Model_Simulator/assets/123030236/140587c2-9de5-47c7-8fd5-674d861b470a)
 
-Event Model: Technology Conference
-----------------------------------
+### Event Model: Technology Conference
+
 - Type of Event: Conference
 - Audience: Technology professionals, industry experts, and enthusiasts; expected attendance of 500-1000
 - Location: Major city convention center
