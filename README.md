@@ -7,6 +7,9 @@ Users can simulate various scenarios, from revisiting old event models to testin
 #
 ### 100 Popular Social Events
 
+<details><summary>100 Popular Social Events</summary>
+<br>
+
 1. Weddings
 2. Birthday parties
 3. Graduation parties
@@ -107,6 +110,9 @@ Users can simulate various scenarios, from revisiting old event models to testin
 98. Photography walks
 99. Travel expeditions
 100. Cultural festivals (e.g., Diwali, Carnival, Oktoberfest)
+
+<br>
+</details>
 
 #
 ### Examples Usage
